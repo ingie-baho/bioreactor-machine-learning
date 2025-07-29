@@ -28,6 +28,8 @@ Each model is trained on the respective dataset, which is included in the reposi
 ## Contributors
 @YitongTseo laid the foundation of this work but developing the workflow and the first version of the codes which dealt with the 12-hour light/dark cycle for the linear regression and random forest models. @Ingie-Baho trained the linear regression and random forest models on various data sets as well as authored the scripts for the XGBoost models. 
 
+Professor Ian Hunter served as the main advisor, and this work was funded by the MIT Bioinstrumentation Lab. 
+
 ---
 
 Feel free to explore the code and datasets to understand how environmental conditions affect microbial growth dynamics. Let us know if you use or extend this work!
